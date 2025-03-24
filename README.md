@@ -2,8 +2,10 @@
 
 The Eligibility Rules feature enables e-commerce store owners to set and enforce customised criteria to determine who or what qualifies for offers in their store. These rules are highly flexible and can be based on factors such as specific products, collections, cart value, and more. Only customers or products that meet the conditions defined by the store owner will be eligible for the offer.
 
-## UI
-![image](https://github.com/user-attachments/assets/10d5a697-cf6f-42d3-843c-ca9475259dbd)
+## Demo
+[Link](https://offer-eligibility-rules.netlify.app/)
+
+![image](https://github.com/user-attachments/assets/9c552e92-44dc-4f2f-a41a-0f559b01145e)
 
 ## Setup & Installation
 ### Running the Project
